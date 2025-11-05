@@ -1,0 +1,7 @@
+torch
+nemo_toolkit[all]
+numpy
+pandas
+tqdm
+datasets
+scikit-learn
